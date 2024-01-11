@@ -1,0 +1,315 @@
+body {
+    /* Inter font */
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    /* mirriweather font */
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {}
+
+.image-container {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin: 50px 150px 150px 150px;
+}
+
+.image-container img {
+    width: 1320px;
+    height: 600px;
+    /* width: 100%; */
+}
+
+.image-text {
+    margin: 0;
+    text-align: center;
+
+    /* background:  url("../resources/Banner\ Image.png"); 
+    margin: 50px 150px 150px 150px; */
+}
+
+header {
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    margin: 50px 150px 150px 150px;
+    /* padding-top: 100p x; */
+    color: white;
+    overflow: hidden;
+    /* background: #C04848;  fallback for old browsers */
+    background: url("../resources/Banner\ Image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+
+}
+
+.hero-header {
+    text-align: center;
+    margin: 200px;
+
+}
+
+.image-greeting {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 32px;
+
+    font-weight: 400;
+    margin-bottom: 16px;
+
+}
+
+.image-title-01 {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 72px;
+
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.second-part {
+
+    margin-bottom: 120px;
+}
+
+.offer-title {
+    color: #F00;
+    text-align: center;
+
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 0px;
+
+}
+
+.red-para-font {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+
+}
+
+.black-font {
+    color: #070211;
+    text-align: center;
+
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+
+}
+
+.new-year {
+    /* width: 802.9px;
+    height: 500px; */
+    align-content: center;
+
+}
+
+.new-year .new-image {
+    /* align-items: center; */
+    margin: 50px 400px;
+}
+
+/* .welcome {
+    background-image: url(../resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+
+} */
+.page-header {
+    background: url(../resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+/* .page-header .out-of-screen{
+    position: absolute;
+    top: -2000em;
+} */
+.out-of-screen {
+    position: absolute;
+    right: 20%;
+    margin-bottom: 20%;
+
+}
+
+.page-header>.text-position {
+    text-align: center;
+    margin: 200px;
+
+}
+
+.mid-night-party {
+    margin-top: 125px;
+    width: 642px;
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    text-align: left;
+}
+
+.image-title {
+
+    width: 642px;
+    color: rgba(255, 255, 255, 0.80);
+
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    text-align: left;
+}
+
+.small-button {
+    color: #FFF;
+    text-align: left;
+
+    font-size: 20px;
+
+    font-weight: 700;
+
+    text-transform: uppercase;
+
+}
+
+.awesome-portfolio {
+    background: #FFF;
+
+}
+
+.red-g-font {
+    color: #F00;
+
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-left: 170px;
+
+}
+
+.o-portfolio {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-left: 170px;
+    margin-top: 16px;
+}
+
+.gift-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    width: 896px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+
+
+.image-colum {
+    display: flex;
+
+}
+
+.image-container img {
+
+    width: 424px;
+    height: 450px;
+
+    margin-right: 24px;
+
+}
+
+.last-part {
+    width: 1320px;
+    height: 616px;
+
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 0 auto;
+}
+
+.Email-logo {
+
+    display: block;
+    margin-left: 585px;
+    margin-right: 585px;
+    width: 50%;
+
+}
+
+.sub-news {
+    color: #070211;
+    text-align: center;
+
+    font-size: 48px;
+
+    font-weight: 900;
+
+    text-transform: capitalize;
+    margin-top: 40px;
+    margin-bottom: 22px;
+}
+
+/* .contact {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    text-align: center;
+
+
+    /*  */
+    
+} 
+*/
+
+ /* .contact input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background:  #FFF;
+    border: 0;
+    width: 100%
+} */
+.contact{
+    width: 648px;
+height: 72px;
+
+border-radius: 50px;
+background: #FFF;
+}
+/* form{
+    margin: 0 auto;
+} */
+form .btn-primary{
+    width: 210px;
+height: 72px;
+
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+margin-right: 336px;
+
+}
