@@ -270,46 +270,118 @@ header {
     margin-bottom: 22px;
 }
 
-/* .contact {
+
+
+
+
+*/
+/* .input-class{
+    margin-left: 335px;
+    margin-right: 335px;
     width: 648px;
     height: 72px;
     border-radius: 50px;
     background: #FFF;
-    text-align: center;
-
-
-    /*  */
-    
-} 
-*/
-
- /* .contact input[type="email"],
-textarea {
-    display: block;
-    margin-bottom: 25px;
-    padding: 18px 35px;
-    color: #757575;
-    border-radius: 5px;
-    background:  #FFF;
-    border: 0;
-    width: 100%
+    padding: 25px 30px;
 } */
-.contact{
+
+.contact {
+    margin-left: 335px;
+    margin-right: 335px;
     width: 648px;
-height: 72px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    padding: 25px 30px;
 
-border-radius: 50px;
-background: #FFF;
 }
-/* form{
-    margin: 0 auto;
-} */
-form .btn-primary{
+
+/* .email-size > .btn-primary {
+    display: block;
     width: 210px;
-height: 72px;
+    height: 72px;
 
-border-radius: 0px 50px 50px 0px;
-background: #F00;
-margin-right: 336px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-right: 100px;
+    margin-left: 430px;
+    margin-bottom: 80px;
 
+    margin-top: 0px;
+    
+} */
+button {
+
+    width: 210px;
+    height: 72px;
+
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-right: 400px;
+    margin-left: 790px;
+    /* margin-bottom: 330px; */
+
+
+
+
+}
+
+.email-size {
+    width: 648px;
+    height: 72px;
+
+    border-radius: 50px;
+    background: #FFF;
+    margin-left: 336px;
+
+}
+
+/* The footer part */
+.footer-part {
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+}
+.First-para{
+    gap: 750px;
+    display: flex;
+    color: #FFF;
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px; 
+/* margin: 120px 140px 409px 1085px; */
+/* margin-top: 120px;
+margin-bottom: 410px; */
+}
+
+/* .sk-set{
+    margin-top: 120px;
+    text-align: left;
+}
+.pk-set{
+    text-align: right;
+    margin-left: 275px; 
+    margin-right: 140px;
+    margin-bottom: 409px;
+}
+.hr-value{
+    width: 1320px;
+height: 1px;
+background: rgba(255, 255, 255, 0.15);
+color: white;
+} */
+.hr-value{
+    width: 1320px;
+height: 1px;
+background: rgba(255, 255, 255, 0.15);
+color: white;
+}
+.dis-01{
+    margin-left: 140px;
+}
+.ft-image{
+    
+    margin-left: 640px;
 }
